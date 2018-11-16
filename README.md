@@ -6,9 +6,9 @@ We do not hold the copyright to the images in the datasets, and all the images w
 
 The structure of the datasets are as follows:
 
-oil_val : oil painting images
+oil_val.zip : oil painting images
 
-watercolor_val : watercolor images
+watercolor_val.zip : watercolor images
 
 oil_test_label.txt : annotations of oil painting images
 
