@@ -12,5 +12,5 @@ watercolor_val : watercolor images
 
 oil_test_label.txt : annotations of oil painting images
 
-watercolor_test_label.txt : annotations of watercolor
+watercolor_test_label.txt : annotations of watercolors
 
